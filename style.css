@@ -54,6 +54,7 @@ body {
   margin: 4px 0;
   font-size: 11px;
   text-align: center;
+  font-family: monospace;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
