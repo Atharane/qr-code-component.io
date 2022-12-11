@@ -56,12 +56,12 @@ main {
   color: #898b98;
 }
 
-.attribution {
+footer {
   margin: 4px 0;
   font-size: 1.1rem;
   text-align: center;
   font-family: monospace;
 }
-.attribution a {
+footer a {
   color: hsl(228, 45%, 44%);
 }
